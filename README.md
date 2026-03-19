@@ -1,5 +1,6 @@
-# bareiron
-Minimalist Minecraft server for memory-restrictive embedded systems.
+# rawiron
+A Fork of bareiron, Minimalist Minecraft server for memory-restrictive embedded systems By p2r3 [Orignal Repo](https://github.com/p2r3/bareiron)
+The rest of this readme is the same as the orignal repo.
 
 The goal of this project is to enable hosting Minecraft servers on very weak devices, such as the ESP32. The project's priorities are, in order: **memory usage**, **performance**, and **features**. Because of this, compliance with vanilla Minecraft is not guaranteed, nor is it a goal of the project.
 
