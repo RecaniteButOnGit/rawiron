@@ -1,5 +1,5 @@
 # rawiron
-A Fork of bareiron, Minimalist Minecraft server for memory-restrictive embedded systems By p2r3 [Orignal Repo](https://github.com/p2r3/bareiron)
+A fork of [bareiron](https://github.com/p2r3/bareiron), a minimalist Minecraft server for memory-restrictive embedded systems.
 
 The rest of this readme is the same as the orignal repo.
 
